@@ -1,0 +1,32 @@
+<html>
+<head>
+
+</head>
+<body>
+<h1>WEB PAGE IS LOADING ... </h1>
+    
+    
+    <script>
+        
+        //#sololearn examples 
+        
+        var i = 0;
+        while(i<=10){
+            ++i;
+            document.write("Print my Skript: #"+i+"</br>");
+        }
+        
+        //objects
+        
+        //functions
+        
+        //constructor
+        
+        
+    
+    </script>
+</body>
+
+
+
+</html>
