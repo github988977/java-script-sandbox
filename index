@@ -15,7 +15,7 @@
             ++i;
             document.write("Print my Skript: #"+i+"</br>");
         }
-        
+        //kommentar vom kommissar
         //objects
         
         //functions
